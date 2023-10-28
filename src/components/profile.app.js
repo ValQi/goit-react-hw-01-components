@@ -1,6 +1,5 @@
 import user from '../user.json';
 import { Profile } from './profile';
-import styles from './profile-module.cssg';
 
 <Profile
   username={user.username}
